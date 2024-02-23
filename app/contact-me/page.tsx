@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div style={{backgroundImage: "url(bg-3.jpg)"}}
-    className='flex flex-col h-screen w-screen items-center justify-center bg-cover bg-center'
+    className='flex flex-col h-screen w-full items-center justify-center bg-cover bg-center'
     >
 
 <div style={{backgroundImage: "url(atombg-comp.webp)"}} className='h-[60%] w-full relative bg-cover bg-center border border-transparent'>

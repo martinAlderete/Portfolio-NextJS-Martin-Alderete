@@ -4,6 +4,8 @@
 
 body {
   overflow: hidden; 
+  zoom: 90%; 
+  
 }
 
 .flip-card-inner {
